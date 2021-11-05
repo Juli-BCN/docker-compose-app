@@ -9,7 +9,7 @@
 <body>
 
 <div class="container">
-  <h2>LeasePlan Docker Compose URL shortener</h2>
+  <h2>Docker Compose URL shortener</h2>
   <img src="lp_logo2.png" alt="Logo" /> <img src="aws_logo2.png" alt="AWS Logo" /></p>
 
 <style type="text/css">

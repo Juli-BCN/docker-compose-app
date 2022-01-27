@@ -4,6 +4,7 @@ Docker Compose for Apache, PHP and mySQL
 PHP Code to Shorten URLs and create links and redirection
 This version is running two containers on Docker Compose
 
+Edicion 27/01/2022
 
 ## It uses a database with the following details:
 > DB Name: LPURLS
